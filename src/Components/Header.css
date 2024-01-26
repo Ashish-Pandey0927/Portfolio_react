@@ -16,7 +16,7 @@
     border-bottom: 0.1rem solid rgb(0, 0, 0, 0.2);
   }
   .cvbtn{
-    padding: 0.7rem 1.5rem;
+    padding: 0.5rem 1.5rem;
     font-size: 1.2rem;
     animation: glow 1s infinite;
   }

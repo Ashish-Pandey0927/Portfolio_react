@@ -2,7 +2,8 @@
 import React, { useState, useEffect } from 'react';
 import Header from './Components/Header';
 import Home from './Components/Home';
-import About from './Components/About'
+import About from './Components/About';
+import Service from './Components/Services';
 import Loader from './Components/Loader'; // Import the Loader component
 import Projects from './Components/Projects';
 import Contact from './Components/Contact';
@@ -28,6 +29,7 @@ const App = () => {
           <Header />
           <Home />
           <About />
+          <Service />
           <Projects />
           <Contact />
           <Footer />
