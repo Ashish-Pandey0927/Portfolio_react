@@ -49,8 +49,8 @@ const Home = () => {
             {/* <!-- <span>Web Developer</span> --> */}
             <span id="element" ></span>
           <div className="social-media">
-            <a href="/"><i className="bx bxl-facebook"></i></a>
-            <a href="/"><i className="bx bxl-instagram"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=100013942872287&mibextid=2JQ9oc"><i className="bx bxl-facebook"></i></a>
+            <a href="https://www.instagram.com/ashish_4377/"><i className="bx bxl-instagram"></i></a>
             <a
               href="https://www.linkedin.com/in/ashish-pandey-b5408a271/" ><i className="bx bxl-linkedin"></i></a>
             <a href="https://github.com/Ashish-Pandey0927" ><i className="bx bxl-github"></i></a>
